@@ -11,7 +11,7 @@ Link to the dashboard → [Road Accident Dashboard](https://www.novypro.com/proj
 - The visual representation of the Fatal severity for the year 2022 is displayed below. The comparison could be drawn for any year between 2019 to 2022.
 
 
-🔍D ata Gathering & Cleaning:
+🔍Data Gathering & Cleaning:
 I imported the CSV file and performed various activities such as applying filters, removing duplicates, fixing errors, and transforming the data into an easily analyzable format. The data includes information about accidents, such as the number of vehicles involved, severity of the accident, and the location and time of the accident.
 
 
